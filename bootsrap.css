@@ -1,0 +1,70 @@
+body{
+    background-image: url("https://static.wixstatic.com/media/fc7570_416a56430a9e4e2abd030cd2656120ef~mv2_d_6506_3420_s_4_2.jpg/v1/fill/w_1659,h_1575,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_416a56430a9e4e2abd030cd2656120ef~mv2_d_6506_3420_s_4_2.jpg");
+    background-attachment: fixed;
+}
+.sec-3{
+    background-color: #152040;
+}
+.sec-5{
+    height: fit-content;
+}
+.nav-link{
+    color: white;
+    text-align: center;
+}
+.sec-4{
+    min-height: 70vh;
+}
+.nav-link:hover,.active{
+    color: yellow !important;
+}
+.sec-2{
+    background-image: url("https://static.wixstatic.com/media/fc7570_4b14e3f7cbe24146aa7f74162ac8a04a~mv2_d_4839_2502_s_4_2.jpg/v1/fill/w_1659,h_849,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_4b14e3f7cbe24146aa7f74162ac8a04a~mv2_d_4839_2502_s_4_2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.part-1{
+    background-image: url("https://static.wixstatic.com/media/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_459,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.part-2{
+    background-image: url("https://static.wixstatic.com/media/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg/v1/fill/w_460,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec-6{
+    height: 100vh;
+    background-image: url("https://static.wixstatic.com/media/fc7570_929a2fe5b7754396b385f6219e720299~mv2_d_3982_2655_s_4_2.jpg/v1/fill/w_1659,h_1100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_929a2fe5b7754396b385f6219e720299~mv2_d_3982_2655_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.sec-7{
+    height: fit-content;
+    background-color: #152040;
+    
+    
+}
+.sec-12{
+   
+        
+    
+    
+}
+
+
+
+
+.part-3{
+    background-image: url("https://static.wixstatic.com/media/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg/v1/fill/w_460,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
